@@ -32,7 +32,8 @@
 </p>
 
 ### 📘 Most Used Languages
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanishqsakhare&show_icons=true&locale=en&layout=compact" alt="tanishqsakhare" /></p>
+<p><img src="https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=tanishqsakhare&layout=compact&theme=radical" />
+</p>
 
 ### 📊 GitHub Stats:
 ![Tanishq's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanishqsakhare&show_icons=true&theme=radical)
