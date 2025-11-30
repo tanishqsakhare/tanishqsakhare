@@ -32,6 +32,7 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanishqsakhare&show_icons=true&locale=en&layout=compact" alt="tanishqsakhare" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohd-tahzeeb-khan&show_icons=true&locale=en&layout=compact" alt="mohd-tahzeeb-khan" /></p>
 
 ### 📊 GitHub Stats:
 ![Tanishq's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanishqsakhare&show_icons=true&theme=radical)
