@@ -38,8 +38,12 @@
     alt="tanishqsakhare" />
 </p>
 
+<br/>
 
 ### 📊 GitHub Stats:
 ![Tanishq's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanishqsakhare&show_icons=true&theme=radical)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanishqsakhare&" alt="tanishqsakhare" /></p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanishqsakhare" alt="tanishqsakhare" />
+</p>
+
