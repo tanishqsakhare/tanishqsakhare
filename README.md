@@ -32,13 +32,7 @@
 </p>
 
 ### 📘 Most Used Languages
-<p><img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tanishqsakhare&layout=compact&theme=radical" alt="Most Used Languages" /> </p>
-<p>
-  <img 
-    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?     username=tanishqsakhare&layout=compact&theme=radical&langs_count=10&card_width=450" 
-    alt="Most Used Languages"
-  />
-</p>
+<p><img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tanishqsakhare&layout=compact&theme=radical" alt="Most Used Languages" /></p>
 
 ### 📊 GitHub Stats:
 ![Tanishq's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanishqsakhare&show_icons=true&theme=radical)
