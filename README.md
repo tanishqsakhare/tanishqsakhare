@@ -32,7 +32,7 @@
 </p>
 
 ### 📘 Most Used Languages
-<p><img src="https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=tanishqsakhare&layout=compact&theme=radical" />
+<p><img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tanishqsakhare&layout=compact&theme=radical" />
 </p>
 
 ### 📊 GitHub Stats:
