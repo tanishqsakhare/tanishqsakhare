@@ -31,7 +31,6 @@
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 </p>
 
-### 📘 Most Used Languages
 <p><img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tanishqsakhare&layout=compact&theme=radical" alt="Most Used Languages" /></p>
 
 ### 📊 GitHub Stats:
