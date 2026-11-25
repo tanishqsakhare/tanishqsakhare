@@ -73,24 +73,3 @@
 </p>
 
 <br/>
-
-<details> 
-  <summary><h2>📊 Stats and Activity</h2></summary>
-
-  <h3>🔥 Streak Stats</h3>
-
-  <!-- GitHub Readme Streak Stats - https://github.com/tanishqsakhare/github-readme-streak-stats -->
-  <p>
-    <a href="https://github.com/tanishqsakhare/github-readme-streak-stats">
-      <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="tanishqsakhare's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=tanishqsakhare&theme=monokai-metallian&hide_border=true&short_numbers=true"/>
-    </a>
-  </p>
-
-  <br/>
-  
-  <!-- https://github.com/tanishqsakhare/github-readme-activity-graph -->
-
-  <a href="https://github.com/tanishqsakhare/github-readme-activity-graph"><img alt="tanishqsakhare's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=tanishqsakhare&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
-</details>
