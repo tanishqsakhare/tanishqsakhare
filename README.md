@@ -28,9 +28,6 @@
 ### 📊 GitHub Stats:
 ![Tanishq's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanishqsakhare&show_icons=true&theme=radical)
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanishqsakhare" alt="tanishqsakhare" />
-</p>
 <h3>🔥 Streak Stats</h3>
 
   <!-- GitHub Readme Streak Stats - https://github.com/tanishqsakhare/github-readme-streak-stats -->
