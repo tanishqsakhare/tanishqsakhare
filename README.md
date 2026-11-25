@@ -194,9 +194,9 @@
 
   <br/>
   
-  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+  <!-- https://github.com/tanishqsakhare/github-readme-activity-graph -->
 
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="tanishqsakhare's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=tanishqsakhare&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+  <a href="https://github.com/tanishqsakhare/github-readme-activity-graph"><img alt="tanishqsakhare's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=tanishqsakhare&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 </details>
 
