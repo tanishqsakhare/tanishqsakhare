@@ -57,11 +57,8 @@
 <p align="center">
   <a href="https://github.com/tanishqsakhare?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/tanishqsakhare?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/tanishqsakhare/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=tanishqsakhare&color=blue&label=Profile+Views"/></a>
   <a href="https://github.com/tanishqsakhare?tab=followers">
     <img alt="followers" title="GitHub Profile Views" src="https://komarev.com/ghpvc/?username=tanishqsakhare&color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Profile+Views&logoColor=white"/></a>
-  
   <a href="https://github.com/tanishqsakhare/Simple-View-Counter">
     <img alt="views" title="Repo views" src="https://freshidea.com/jonah/app/simple-view-counter"/></a>
 </p>
