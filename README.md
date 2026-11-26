@@ -78,12 +78,14 @@
     alt="Tanishq Sakhare's GitHub Streak" width="50%"
   />
 </a>
-  
-  <img
+</p>
+
+## Most Used Languages
+
+ <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishqsakhare&layout=compact&langs_count=8&bg_color=1F222E&title_color=ff2e88&text_color=9efcff&border_color=ffffff&hide_border=true"
     width="38%"
   />
-</p>
 
 
 ## 🔥 Contribution Activity
