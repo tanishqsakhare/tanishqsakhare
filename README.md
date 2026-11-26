@@ -68,7 +68,7 @@
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=tanishqsakhare&show_icons=true&bg_color=1F222E&title_color=FF2E88&text_color=9efcff&theme=radical&hide_border=true"
-    width="54%"
+    width="100%"
   />
   &nbsp;&nbsp;
 
