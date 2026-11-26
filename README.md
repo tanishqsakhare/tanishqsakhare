@@ -84,6 +84,8 @@
     <img src="https://komarev.com/ghpvc/?username=tanishqsakhare&label=PROFILE%20VIEWS&style=for-the-badge&color=2ECC71" />
   <a href="https://github.com/tanishqsakhare/Simple-View-Counter">
     <img title="repo views" src="https://freshidea.com/jonah/app/simple-view-counter"></a>
+
+  <img title="repo views" src="https://freshidea.com/jonah/app/simple-view-counter"></a>
 </p>
 
 <br/>
