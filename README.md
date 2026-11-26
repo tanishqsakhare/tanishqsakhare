@@ -80,6 +80,13 @@
 </a>
 </p>
 
+## 📊 GitHub Insights & Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tanishqsakhare&show_icons=true&theme=radical&hide_border=true&bg_color=1F222E&title_color=FF2E88&text_color=9efcff" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=tanishqsakhare&theme=radical&hide_border=true&background=1F222E" />
+</p>
+
 ## Most Used Languages
 
  <img
