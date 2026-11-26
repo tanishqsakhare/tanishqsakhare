@@ -44,10 +44,6 @@
 ## 🔥 Contribution Activity
 
   <!-- GitHub Readme Streak Stats - https://github.com/tanishqsakhare/github-readme-streak-stats -->
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=tanishqsakhare&theme=dark&background=1F222E&ring=FF9966&fire=FF9966&currStreakLabel=FF4B78&sideLabels=FF4B78&currStreakNum=F8D866&sideNums=F8D866&dates=AAB0C0&hide_border=true)](https://git.io/streak-stats)
-
-
 <a href="https://github.com/tanishqsakhare">
   <img
     src="https://streak-stats.demolab.com?user=tanishqsakhare&background=1F222E&ring=FF9966&fire=FF9966&currStreakLabel=FF4B78&sideLabels=FF4B78&currStreakNum=F8D866&sideNums=F8D866&dates=AAB0C0&hide_border=true"
