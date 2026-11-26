@@ -26,7 +26,7 @@
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 </p>
 
-## 📊 Stats & Most Used Languages: 
+## 📊 GitHub Insights & Analytics: 
 
 <p align="left">
   <img
@@ -41,7 +41,7 @@
 </p>
 
 
-## 🔥 Contribution Graph
+## 🔥 Contribution Activity
 
   <!-- GitHub Readme Streak Stats - https://github.com/tanishqsakhare/github-readme-streak-stats -->
 
