@@ -71,13 +71,10 @@
     width="59%"
   />
   &nbsp;&nbsp;
-
-  <a href="https://github.com/tanishqsakhare">
   <img
-    src="https://streak-stats.demolab.com?user=tanishqsakhare&background=1F222E&ring=FF9966&fire=FF9966&currStreakLabel=FF4B78&sideLabels=FF4B78&currStreakNum=F8D866&sideNums=F8D866&dates=AAB0C0&hide_border=true"
-    alt="Tanishq Sakhare's GitHub Streak" width="38%"
-  /> 
-</a>
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishqsakhare&layout=compact&langs_count=8&bg_color=1F222E&title_color=ff2e88&text_color=9efcff&border_color=ffffff&hide_border=true"
+    width="38%"
+  />
 </p>
 
 ## 📊 GitHub Insights & Analytics
