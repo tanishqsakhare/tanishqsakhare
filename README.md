@@ -38,7 +38,7 @@
   />
   &nbsp;&nbsp;
   <img
-    src="https://github-readme-stats.vercel.app/api? username=tanishqsakhare&show_icons=true&bg_color=1F222E&title_color=FF2E88&text_color=9EFCFF&icon_color=F8D866&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=tanishqsakhare&show_icons=true&theme=radical&hide_border=true"
     width="58%"
   />
 </p>
