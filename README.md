@@ -80,7 +80,7 @@
 
 ## 🔥 Contribution Activity
 
-<p align="center">
+<p align="left">
   <i>Dynamic GitHub insights powered by API integration and real-time data.</i>
 </p>
   <!-- GitHub Readme Streak Stats - https://github.com/tanishqsakhare/github-readme-streak-stats -->
@@ -91,7 +91,7 @@
   />
 </a>
 
-<p align="center">
+<p align="left">
   <i>A visual journey of daily contributions, coding consistency, and development milestones.</i>
 </p>
 
