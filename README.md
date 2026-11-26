@@ -81,7 +81,7 @@
     <img src="https://img.shields.io/github/followers/tanishqsakhare?label=FOLLOW&style=for-the-badge&logo=github&logoColor=white&labelColor=1F222E&color=1877F2" />
   </a>
   <a href="https://github.com/tanishqsakhare?tab=followers">
-    <img src="https://komarev.com/ghpvc/?username=tanishqsakhare&label=PROFILE%20VIEWS&style=for-the-badge&color=1F222E" />
+    <img src="https://komarev.com/ghpvc/?username=tanishqsakhare&label=PROFILE%20VIEWS&style=for-the-badge&color=2ECC71" />
   <a href="https://github.com/tanishqsakhare/Simple-View-Counter">
     
   <img title="repo views" src="https://freshidea.com/jonah/app/simple-view-counter">
