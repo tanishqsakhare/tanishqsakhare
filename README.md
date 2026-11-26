@@ -96,6 +96,10 @@
 
 [![Tanishq Sakhare's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=tanishqsakhare&bg_color=1F222E&color=F8D866&line=ff4b78&point=ffffff&area=true&hide_border=true&custom_title=Tanishq%20Sakhare's%20Contribution%20Graph)](https://github.com/tanishqsakhare)
 
+
+<!-- TERMINAL FOOTER EXIT -->
+<img src="assets/leetcode-tracking-progress.jpeg" alt="Terminal Footer — Session Completed" width="100%" />
+
 <p align="center">
   <!-- Typing SVG by tanishqsakhare - https://github.com/tanishqsakhare -->
   <a href="https://github.com/tanishqsakhare">
