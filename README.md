@@ -26,6 +26,12 @@
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 </p>
 
+<h2 align="left">💻 My Technologies & Tools</h2>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,python,html,css,react,nodejs,git,github,vscode&theme=dark" />
+</p>
+
 ## 📊 GitHub Insights & Analytics: 
 
 <p align="left">
