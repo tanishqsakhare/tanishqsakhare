@@ -35,16 +35,17 @@
 
 
 
-<table>
-  <tr>
-    <td width="40%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishqsakhare&layout=compact&langs_count=8&bg_color=151321&title_color=ff2e88&text_color=9efcff&border_color=ffffff&hide_border=false" width="100%" />
-    </td>
-    <td width="60%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=tanishqsakhare&show_icons=true&theme=radical" width="100%" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishqsakhare&layout=compact&langs_count=8&bg_color=151321&title_color=ff2e88&text_color=9efcff&border_color=ffffff&hide_border=false"
+    width="38%"
+  />
+  &nbsp;&nbsp;
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=tanishqsakhare&show_icons=true&theme=radical"
+    width="58%"
+  />
+</p>
 
 
 
