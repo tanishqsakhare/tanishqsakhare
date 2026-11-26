@@ -29,6 +29,8 @@
 ### 📊 GitHub Stats:
 ![Tanishq's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanishqsakhare&show_icons=true&theme=radical)
 
+[![Top Langs](https://beautiful-github-homepage.vercel.app/api/top-langs/?username=tanishqsakhare&layout=compact)](https://github.com/tanishqsakhare/beautiful-github-homepage)
+
 <h3>🔥 Streak Stats</h3>
 
   <!-- GitHub Readme Streak Stats - https://github.com/tanishqsakhare/github-readme-streak-stats -->
