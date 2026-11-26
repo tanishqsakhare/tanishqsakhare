@@ -19,6 +19,12 @@
   <img src="https://skillicons.dev/icons?i=typescript,javascript,python,html,css,react,nodejs,git,github,vscode&theme=dark" />
 </p>
 
+<h2 align="left">💻 My Favorite Tools and Technologies</h2>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tensorflow,python,js,cpp,pytorch,mysql,ts,aws,cs,sklearn,github,git,keras,pandas,numpy,opencv,huggingface,jupyter,mongodb,nodejs,matplotlib,vscode,openai,graphql,postgres,seaborn,c,docker,scipy,kubernetes,bash,raspberrypi,xgboost,lightgbm,linux,hadoop,jenkins,firebase,arduino,gcp,dotnet,java,android,powershell,azure,gitlab&theme=dark" />
+</p>
+
 ## 📊 GitHub Insights & Analytics: 
 
 <p align="left">
