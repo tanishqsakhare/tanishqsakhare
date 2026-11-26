@@ -8,18 +8,6 @@
 - 📫 How to reach me: **tanishqsakhare@gmail.com**  
 - ⚡ Fun fact: **I’m ambidextrous**
 
-### 🌐 Connect with me:
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/tanishqsakhare/" target="_blank">
-    <img align="center"
-         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
-         alt="LinkedIn"
-         height="30"
-         width="40" />
-  </a>
-</p>
-
 <h2 align="left">💻 My Favorite Tools and Technologies</h2>
 
 <p align="left">
