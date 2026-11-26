@@ -87,28 +87,10 @@
   <img src="https://streak-stats.demolab.com?user=tanishqsakhare&theme=radical&hide_border=true&background=1F222E" />
 </p>
 
-<table border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td border="0">
-
-<img src="https://github-readme-stats.vercel.app/api?username=tanishqsakhare&show_icons=true&bg_color=1F222E&title_color=FF2E88&text_color=9efcff&theme=radical&hide_border=true" />
-
-</td>
-<td border="0">
-
-<img src="https://streak-stats.demolab.com?user=tanishqsakhare&background=1F222E&ring=FF9966&fire=FF9966&currStreakLabel=FF4B78&sideLabels=FF4B78&currStreakNum=F8D866&sideNums=F8D866&dates=AAB0C0&hide_border=true" />
-
-</td>
-</tr>
-</table>
-
-## Most Used Languages
-
- <img
+<img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishqsakhare&layout=compact&langs_count=8&bg_color=1F222E&title_color=ff2e88&text_color=9efcff&border_color=ffffff&hide_border=true"
     width="38%"
   />
-
 
 ## 🔥 Contribution Activity
 
