@@ -53,7 +53,7 @@
 <!-- 07. AI, DATA SCIENCE & ROBOTICS -->
 ### 🤖 AI, Data Science & Robotics
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=numpy,pandas,tensorflow,pytorch,sklearn,opencv,matplotlib&theme=dark" alt="AI, Data Science & Robotics" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,matplotlib&theme=dark" alt="AI, Data Science & Robotics" />
 </p>
 
 <!-- 08. TOOLS & IDES -->
