@@ -14,7 +14,7 @@
   <img src="https://skillicons.dev/icons?i=tensorflow,python,js,cpp,pytorch,mysql,ts,aws,sklearn,github,git,pandas,numpy,opencv,jupyter,mongodb,nodejs,matplotlib,vscode,openai,seaborn,c,docker,scipy,kubernetes,bash,linux,hadoop,jenkins,gcp,java,powershell,azure,gitlab&theme=dark" />
 </p>
 
-## 📊 GitHub Insights & Analytics: 
+## 📊 GitHub Insights & Analytics
 
 <p align="left">
   <img
