@@ -57,7 +57,7 @@
 <p align="center">
   <!-- Typing SVG by tanishqsakhare - https://github.com/tanishqsakhare -->
   <a href="https://github.com/tanishqsakhare">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F8D866&center=true&vCenter=true&width=650&lines=Here+I'm+Tanishq+Sakhare;Software+Developer;1.5+Years+of+Experience;Always+Learning+New+Things" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F8D866&center=true&vCenter=true&width=650&lines=Here+I'm+Tanishq+Sakhare;Software+Developer;1.5+Years+of+Experience;I'm+Always+Curious+To+Learn+Something+New" alt="Typing SVG" />
   </a>
 </p>
 
