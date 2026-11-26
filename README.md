@@ -34,6 +34,20 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanishqsakhare&layout=compact&langs_count=8&bg_color=151321&title_color=ff2e88&text_color=9efcff&border_color=ffffff&hide_border=false)
 
 
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <h3>📊 GitHub Stats</h3>
+      <img src="https://github-readme-stats.vercel.app/api?username=tanishqsakhare&show_icons=true&theme=radical" width="100%" />
+    </td>
+    <td width="50%" align="center">
+      <h3>📊 Most Used Languages</h3>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?      username=tanishqsakhare&layout=compact&langs_count=8&bg_color=151321&title_color=ff2e88&text_color=9efcff&border_color=ffffff&hide_border=false" width="100%" />
+    </td>
+  </tr>
+</table>
+
+
 ## 🔥 Streak Stats & Contribution Graph
 
   <!-- GitHub Readme Streak Stats - https://github.com/tanishqsakhare/github-readme-streak-stats -->
