@@ -117,6 +117,32 @@
   <a href="https://dev.to/tanishq_s09"><img width="32px" alt="Dev.to" title="tanishqsakhare Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/tanishqsakhare/" target="_blank">
+    <img width="32px" alt="LinkedIn" title="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
+  </a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+
+  <a href="https://leetcode.com/u/tanishqs_09/" target="_blank">
+    <img width="32px" alt="LeetCode" title="LeetCode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg"/>
+  </a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+
+  <a href="https://twitter.com/tanishqsakhare1" target="_blank">
+    <img width="32px" alt="Twitter" title="Twitter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg"/>
+  </a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+
+  <a href="https://discord.gg/tanishqs._09" target="_blank">
+    <img width="32px" alt="Discord" title="Discord" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg"/>
+  </a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+
+  <a href="https://dev.to/tanishq_s09" target="_blank">
+    <img width="32px" alt="Dev.to" title="Dev.to" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devto/devto-original.svg"/>
+  </a>
+</p>
+
 <br/>
 
 <!-- Social badges section -->
