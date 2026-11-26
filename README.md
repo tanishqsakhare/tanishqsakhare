@@ -87,6 +87,21 @@
   <img src="https://streak-stats.demolab.com?user=tanishqsakhare&theme=radical&hide_border=true&background=1F222E" />
 </p>
 
+<table width="100%">
+<tr>
+<td align="center" width="50%" bgcolor="#090D16">
+  <a href="https://github.com/SAPTARSHI-coder">
+    <img src="https://github-readme-stats.vercel.app/api?username=SAPTARSHI-coder&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Saptarshi's Live GitHub Stats" width="100%" />
+  </a>
+</td>
+<td align="center" width="50%" bgcolor="#090D16">
+  <a href="https://github.com/SAPTARSHI-coder">
+    <img src="https://streak-stats.demolab.com/?user=SAPTARSHI-coder&starting_year=2024&theme=dark&fire=FF3B30&ring=FF9500&currStreakNum=FFCC00&currStreakLabel=FF9500&sideNums=00E5FF&sideLabels=38BDF8&dates=64748B&background=090D16&border=1E293B" alt="GitHub Live Fire Streak Tracker" width="100%" />
+  </a>
+</td>
+</tr>
+</table>
+
 ## Most Used Languages
 
  <img
