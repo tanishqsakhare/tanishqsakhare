@@ -76,7 +76,7 @@
   <img
     src="https://streak-stats.demolab.com?user=tanishqsakhare&background=1F222E&ring=FF9966&fire=FF9966&currStreakLabel=FF4B78&sideLabels=FF4B78&currStreakNum=F8D866&sideNums=F8D866&dates=AAB0C0&hide_border=true"
     alt="Tanishq Sakhare's GitHub Streak" width="38%"
-  />
+  /> 
 </a>
 </p>
 
