@@ -68,14 +68,14 @@
 <p align="left">
   <img
     src="https://github-readme-stats.vercel.app/api?username=tanishqsakhare&show_icons=true&bg_color=1F222E&title_color=FF2E88&text_color=9efcff&theme=radical&hide_border=true"
-    width="100%"
+    width="50%"
   />
   &nbsp;&nbsp;
 
   <a href="https://github.com/tanishqsakhare">
   <img
     src="https://streak-stats.demolab.com?user=tanishqsakhare&background=1F222E&ring=FF9966&fire=FF9966&currStreakLabel=FF4B78&sideLabels=FF4B78&currStreakNum=F8D866&sideNums=F8D866&dates=AAB0C0&hide_border=true"
-    alt="Tanishq Sakhare's GitHub Streak"
+    alt="Tanishq Sakhare's GitHub Streak" width="50%"
   />
 </a>
   
