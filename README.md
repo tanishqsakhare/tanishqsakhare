@@ -43,21 +43,17 @@
   />
 </p>
 
-
 <p align="left">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishqsakhare&layout=compact&langs_count=8&bg_color=1F222E&title_color=FF2E88&text_color=9EFCFF&border_color=1F222E&hide_border=true"
-    width="38%"
-    align="left"
+    src="https://github-readme-stats.vercel.app/api?username=tanishqsakhare&show_icons=true&bg_color=1F222E&title_color=FF2E88&text_color=9efcff&theme=radical&hide_border=true"
+    width="58%"
   />
   &nbsp;&nbsp;
   <img
-    src="https://github-readme-stats.vercel.app/api?username=tanishqsakhare&show_icons=true&bg_color=1F222E&title_color=FF2E88&text_color=9EFCFF&icon_color=F8D866&hide_border=true"
-    width="58%"
-    align="left"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishqsakhare&layout=compact&langs_count=8&bg_color=1F222E&title_color=ff2e88&text_color=9efcff&border_color=ffffff&hide_border=true"
+    width="38%"
   />
 </p>
-<br clear="all"/>
 
 
 ## 🔥 Streak Stats & Contribution Graph
