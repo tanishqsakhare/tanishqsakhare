@@ -76,7 +76,7 @@
     <img src="https://img.shields.io/github/followers/tanishqsakhare?label=FOLLOW&style=for-the-badge&logo=github&logoColor=white&labelColor=1F222E&color=1877F2" />
   </a>
   <a href="https://github.com/tanishqsakhare?tab=followers">
-    <img alt="followers" title="GitHub Profile Views" src="https://komarev.com/ghpvc/?username=tanishqsakhare&color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Profile+Views&logoColor=white"/></a>
+    <img src="https://komarev.com/ghpvc/?username=tanishqsakhare&label=PROFILE%20VIEWS&style=for-the-badge&color=1F222E" />
   <a href="https://github.com/tanishqsakhare/Simple-View-Counter">
     <img alt="views" title="Repo views" src="https://freshidea.com/jonah/app/simple-view-counter"/>
     <img src="https://shieldcn.dev/views/repo/tanishqsakhare/tanishqsakhare.svg"/></a>
