@@ -13,6 +13,18 @@
 <a href="https://www.linkedin.com/in/tanishqsakhare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tanishqsakhare/" height="30" width="40" /></a>   
 </p>
 
+### 🌐 Connect with me:
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/tanishqsakhare/" target="_blank">
+    <img align="center"
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+         alt="LinkedIn"
+         height="30"
+         width="40" />
+  </a>
+</p>
+
 <h2 align="left">💻 My Favorite Tools and Technologies</h2>
 
 <p align="left">
