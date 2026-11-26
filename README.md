@@ -37,12 +37,6 @@
 <h3>🔥 Streak Stats</h3>
 
   <!-- GitHub Readme Streak Stats - https://github.com/tanishqsakhare/github-readme-streak-stats -->
-  <p>
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-      <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="tanishqsakhare's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=tanishqsakhare&theme=monokai-metallian&hide_border=true&short_numbers=true"/>
-    </a>
-  </p>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=tanishqsakhare&theme=dark&background=1F222E&ring=FF9966&fire=FF9966&currStreakLabel=FF4B78&sideLabels=FF4B78&currStreakNum=F8D866&sideNums=F8D866&dates=AAB0C0&hide_border=true)](https://git.io/streak-stats)
 
