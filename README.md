@@ -46,7 +46,7 @@
 
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=tanishqsakhare&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
-[![Tanishq Sakhare's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=tanishqsakhare&bg_color=1f2230&color=ffcc33&line=ff4b78&point=ffffff&area=true&hide_border=true&custom_title=Tanishq%20Sakhare's%20Contribution%20Graph)](https://github.com/tanishqsakhare)
+[![Tanishq Sakhare's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=tanishqsakhare&bg_color=1F222Ecolor=F8D866&line=ff4b78&point=ffffff&area=true&hide_border=true&custom_title=Tanishq%20Sakhare's%20Contribution%20Graph)](https://github.com/tanishqsakhare)
 
 <p align="center">
   <!-- Typing SVG by tanishqsakhare - https://github.com/tanishqsakhare/readme-typing-svg -->
