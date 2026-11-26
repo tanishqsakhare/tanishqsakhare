@@ -83,17 +83,4 @@
   <img src="https://shieldcn.dev/views/repo/tanishqsakhare/tanishqsakhare.svg"/></a>
 </p>
 
-
-<p align="center">
-  <a href="https://github.com/tanishqsakhare">
-    <img src="https://img.shields.io/github/followers/tanishqsakhare?label=FOLLOW&style=for-the-badge&logo=github&logoColor=white&labelColor=1F222E&color=1877F2" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=tanishqsakhare&label=PROFILE%20VIEWS&style=for-the-badge&color=1F222E" />
-  <img src="https://shieldcn.dev/views/repo/tanishqsakhare/tanishqsakhare.svg" />
-  
-<img src="https://shieldcn.dev/views/repo/tanishqsakhare/tanishqsakhare.svg?variant=branded" alt="Repository Views" />
-
-</p>
-
-
 <br/>
