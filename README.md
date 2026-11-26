@@ -34,21 +34,17 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanishqsakhare&layout=compact&langs_count=8&bg_color=151321&title_color=ff2e88&text_color=9efcff&border_color=ffffff&hide_border=false)
 
 
-
 <p align="left">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishqsakhare&layout=compact&langs_count=8&bg_color=151321&title_color=ff2e88&text_color=9efcff&border_color=ffffff&hide_border=false"
     width="38%"
-    align="left"
   />
   &nbsp;&nbsp;
   <img
     src="https://github-readme-stats.vercel.app/api?username=tanishqsakhare&show_icons=true&theme=radical"
     width="58%"
-    align="left"
   />
 </p>
-<br clear="all"/>
 
 
 ## 🔥 Streak Stats & Contribution Graph
