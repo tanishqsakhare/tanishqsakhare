@@ -11,11 +11,7 @@
 <h2 align="left">💻 My Favorite Tools and Technologies</h2>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow,python,js,cpp,pytorch,mysql,ts,aws,sklearn,github,git,pandas,numpy,opencv,jupyter,mongodb,nodejs,matplotlib,vscode,openai,seaborn,c,docker,scipy,kubernetes,bash,linux,hadoop,jenkins,gcp,java,powershell,azure,gitlab&theme=dark" />
-</p>
-
-<p align="left">
-  <i>Curated skill matrix across systems programming, full-stack architectures, geospatial intelligence, and physical computing.</i>
+  <i>Exploring the intersection of software development, computational thinking, data science, and technology-driven innovation.</i>
 </p>
 
 <!-- 01. PROGRAMMING LANGUAGES -->
