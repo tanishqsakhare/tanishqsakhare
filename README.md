@@ -44,6 +44,9 @@
     </a>
   </p>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=tanishqsakhare&theme=dark&background=1F222E&ring=FF9966&fire=FF9966&currStreakLabel=FF4B78&sideLabels=FF4B78&currStreakNum=F8D866&sideNums=F8D866&dates=AAB0C0&hide_border=true)](https://git.io/streak-stats)
+
+
 [![Tanishq Sakhare's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=tanishqsakhare&bg_color=1F222E&color=F8D866&line=ff4b78&point=ffffff&area=true&hide_border=true&custom_title=Tanishq%20Sakhare's%20Contribution%20Graph)](https://github.com/tanishqsakhare)
 
 <p align="center">
