@@ -55,13 +55,7 @@
 [![Tanishq Sakhare's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=tanishqsakhare&bg_color=1F222E&color=F8D866&line=ff4b78&point=ffffff&area=true&hide_border=true&custom_title=Tanishq%20Sakhare's%20Contribution%20Graph)](https://github.com/tanishqsakhare)
 
 <p align="center">
-  <!-- Typing SVG by tanishqsakhare - https://github.com/tanishqsakhare/readme-typing-svg -->
-  <a href="https://github.com/tanishqsakhare/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Here%20I'm%20Tanishq%20Sakhare;Software%20developer;1.5%2B%20years%20of%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
-</p>
-
-
-<p align="center">
+  <!-- Typing SVG by tanishqsakhare - https://github.com/tanishqsakhare -->
   <a href="https://github.com/tanishqsakhare">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F8D866&center=true&vCenter=true&width=650&lines=Here+I'm+Tanishq+Sakhare;Software+Developer;1.5+Years+of+Experience;Always+Learning+New+Things" alt="Typing SVG" />
   </a>
