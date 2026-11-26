@@ -80,6 +80,9 @@
   <a href="https://github.com/tanishqsakhare/Simple-View-Counter">
     <img alt="views" title="Repo views" src="https://freshidea.com/jonah/app/simple-view-counter"/>
     <img src="https://shieldcn.dev/views/repo/tanishqsakhare/tanishqsakhare.svg"/></a>
+
+    
+<img title="repo views" src="https://freshidea.com/jonah/app/simple-view-counter">
 </p>
 
 
