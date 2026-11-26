@@ -98,7 +98,7 @@
 
 
 <!-- TERMINAL FOOTER EXIT -->
-<img src="assets/leetcode-tracking-progress.jpeg" alt="Terminal Footer — Session Completed" width="100%" />
+<img src="assets/leetcode-tracking-progress.jpeg" alt="Terminal Footer — Session Completed" width="57%" />
 
 <p align="center">
   <!-- Typing SVG by tanishqsakhare - https://github.com/tanishqsakhare -->
