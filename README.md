@@ -33,7 +33,7 @@
 
 <p align="left">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishqsakhare&layout=compact&langs_count=8&bg_color=151321&title_color=ff2e88&text_color=9efcff&border_color=ffffff&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishqsakhare&layout=compact&langs_count=8&bg_color=1F222E&title_color=ff2e88&text_color=9efcff&border_color=ffffff&hide_border=true"
     width="38%"
   />
   &nbsp;&nbsp;
