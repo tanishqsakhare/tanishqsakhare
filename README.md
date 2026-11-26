@@ -60,6 +60,14 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Here%20I'm%20Tanishq%20Sakhare;Software%20developer;1.5%2B%20years%20of%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
+
+<p align="center">
+  <a href="https://github.com/tanishqsakhare">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F8D866&center=true&vCenter=true&width=650&lines=Here+I'm+Tanishq+Sakhare;Software+Developer;1.5+Years+of+Experience;Always+Learning+New+Things" alt="Typing SVG" />
+  </a>
+</p>
+
+
 <!-- Social icons section -->
 <p align="center">
   <a href="https://www.linkedin.com/in/tanishqsakhare/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
