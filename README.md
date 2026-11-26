@@ -89,6 +89,9 @@
   </a>
   <img src="https://komarev.com/ghpvc/?username=tanishqsakhare&label=PROFILE%20VIEWS&style=for-the-badge&color=1F222E" />
   <img src="https://shieldcn.dev/views/repo/tanishqsakhare/tanishqsakhare.svg" />
+  
+<img src="https://shieldcn.dev/views/repo/tanishqsakhare/tanishqsakhare.svg?variant=branded" alt="Repository Views" />
+
 </p>
 
 
