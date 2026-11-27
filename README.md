@@ -1,3 +1,11 @@
+<p align="center">
+  <img
+    src="assets/tanishq-tech-creative-typing-banner.gif"
+    alt="Tanishq Sakhare - Creative Philosophy"
+    width="100%"
+  />
+</p>
+
 <h1 align="center">Helooo 👋, I'm Tanishq Sakhare</h1>
 <h3 align="center">B.Tech (Computer Science Engineering) from SBJITMR, Nagpur.</h3>
 <h3 align="center">A passionate Python Developer and Creative Artist</h3>
