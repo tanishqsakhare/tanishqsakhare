@@ -6,10 +6,6 @@
   />
 </p>
 
-<h1 align="center">Helooo 👋, I'm Tanishq Sakhare</h1>
-<h3 align="center">B.Tech (Computer Science Engineering) from SBJITMR, Nagpur.</h3>
-<h3 align="center">A passionate Python Developer and Creative Artist</h3>
-
 - 🔭 I’m currently working on: **AI and ML Projects**  
 - 🌱 I’m currently learning: **Data Science and Flask**  
 - 💬 Ask me about: **Python, EDA, and Tech + Creativity careers**  
