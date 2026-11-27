@@ -111,13 +111,13 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F8D866&center=true&vCenter=true&width=650&lines=Here+I'm+Tanishq+Sakhare;Software+Developer;1.5+Years+of+Experience;I'm+Always+Curious+To+Learn+Something+New" alt="Typing SVG" />
   </a>
 
-  <p align="center">
-  <a href="https://github.com/tanishqsakhare">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=5000&pause=999999&color=F8D866&center=true&vCenter=true&multiline=true&repeat=false&width=900&height=150&lines=I+believe+every+great+idea+begins+with+curiosity.+I+love;exploring+different+perspectives%2C+experimenting+with;new+possibilities%2C+and+transforming+thoughts+into;meaningful+creations.+For+me%2C+learning+never+stops%2C;creativity+has+no+boundaries%2C+and+every+connection;brings+an+opportunity+to+grow."
-    alt="Tanishq Sakhare - Creative Philosophy" />
-  </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/tanishqsakhare">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3500&pause=500&color=F8D866&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=180&lines=I+believe+every+great+idea+begins+with+curiosity.;I+love+exploring+different+perspectives%2C+experimenting+with;new+possibilities%2C+and+transforming+thoughts+into;meaningful+creations.+For+me%2C+learning+never+stops%2C;creativity+has+no+boundaries%2C+and+every+connection;brings+an+opportunity+to+grow."
+    alt="Tanishq Sakhare - Creative Philosophy" />
+  </a>
 </p>
 
 
