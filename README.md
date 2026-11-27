@@ -115,7 +115,7 @@
 
 <p align="center">
   <a href="https://github.com/tanishqsakhare">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=35&pause=0&color=F8D866&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=180&lines=I+believe+every+great+idea+begins+with+curiosity.+I+love+exploring+different+perspectives%2C+experimenting+with+new+possibilities%2C+and+transforming+thoughts+into+meaningful+creations.+For+me%2C+learning+never+stops%2C+creativity+has+no+boundaries%2C+and+every+connection+brings+an+opportunity+to+grow."
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3500&color=F8D866&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=180&lines=I+believe+every+great+idea+begins+with+curiosity.;I+love+exploring+different+perspectives%2C+experimenting+with;new+possibilities%2C+and+transforming+thoughts+into;meaningful+creations.+For+me%2C+learning+never+stops%2C;creativity+has+no+boundaries%2C+and+every+connection;brings+an+opportunity+to+grow."
     alt="Tanishq Sakhare - Creative Philosophy" />
   </a>
 </p>
