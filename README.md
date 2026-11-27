@@ -100,6 +100,11 @@
 
 <!-- TERMINAL FOOTER EXIT -->
 <img src="assets/leetcode-tracking-progress.jpeg" alt="Terminal Footer — Session Completed" width="57%" />
+<div align="center">
+  <img src="assets/leetcode-tracking-progress.jpeg"
+       alt="Terminal Footer — Session Completed"
+       width="57%" />
+</div>
 
 <p align="center">
   <!-- Typing SVG by tanishqsakhare - https://github.com/tanishqsakhare -->
