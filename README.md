@@ -81,6 +81,25 @@
   />
 </p>
 
+<table>
+  <tr>
+    <td width="60%">
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=tanishqsakhare&show_icons=true&bg_color=1F222E&title_color=FF2E88&text_color=9efcff&theme=radical&hide_border=true"
+        width="100%"
+        alt="Tanishq's GitHub Stats"
+      />
+    </td>
+    <td width="40%">
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishqsakhare&layout=compact&langs_count=8&bg_color=1F222E&title_color=ff2e88&text_color=9efcff&hide_border=true"
+        width="100%"
+        alt="Most Used Languages"
+      />
+    </td>
+  </tr>
+</table>
+
 ## 🔥 Contribution Activity
 
 <p align="left">
